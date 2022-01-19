@@ -1,33 +1,3 @@
-## 1.0.0_1.1.0_diff_beaxhjVU.zip_31049740.blk.asset_index.json
-452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26550/28173: 94,24%
-
-52492: Lua/Activity/1001/activity1001.lua 24428/24430: 99,99%
-
-
-1050 completely unmatched
-
-218499/221174: 98,79%
-
-## 1.0.1_1.1.0_diff_EsSloi2y.zip_31049740.blk.asset_index.json
-452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26550/28173: 94,24%
-
-52492: Lua/Activity/1001/activity1001.lua 24428/24430: 99,99%
-
-
-1050 completely unmatched
-
-218499/221174: 98,79%
-
-## 1.0.1_1.1.0_diff_V57fzsBp.zip_31049740.blk.asset_index.json
-452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26550/28173: 94,24%
-
-52492: Lua/Activity/1001/activity1001.lua 24428/24430: 99,99%
-
-
-1050 completely unmatched
-
-218499/221174: 98,79%
-
 ## 1.1.0_1.3.0_diff_8cyweCdQ.zip_31049740.blk.asset_index.json
 159: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 14073/14118: 99,68%
 
@@ -154,9 +124,9 @@
 64118: SRT/CHS/Ambor_Readings_CHS 423/427: 99,06%
 
 
-886 completely unmatched
+737 completely unmatched
 
-166183/167392: 99,28%
+166332/167392: 99,37%
 
 ## game_2.0.0_2.1.0_diff_kYU5QpgOiPB1woI4.zip_31049740.blk.asset_index.json
 236: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_SumoData 23039/23616: 97,56%
@@ -164,9 +134,9 @@
 62714: Lua/Activity/1001/activity1001.lua 20410/20411: 100,00%
 
 
-1001 completely unmatched
+838 completely unmatched
 
-179671/181250: 99,13%
+179834/181250: 99,22%
 
 ## game_2.0.0_2.2.0_diff_4fBjlXcqzgVsQ5ZG.zip_31049740.blk.asset_index.json
 386: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Rogue 23989/24923: 96,25%
@@ -174,9 +144,9 @@
 47626: Lua/Activity/1001/activity1001.lua 21844/21845: 100,00%
 
 
-1142 completely unmatched
+974 completely unmatched
 
-190425/192502: 98,92%
+190593/192502: 99,01%
 
 ## game_2.0.50_2.0.51_diff_1iMPRcIZzJf4y7js.zip_31049740.blk.asset_index.json
 177: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_SumoData 22985/23552: 97,59%
@@ -184,9 +154,9 @@
 63496: Lua/Activity/1001/activity1001.lua 20266/20270: 99,98%
 
 
-1080 completely unmatched
+924 completely unmatched
 
-177862/179513: 99,08%
+178018/179513: 99,17%
 
 ## game_2.0.51_2.0.52_diff_FXCjpYt31ShLgEoA.zip_31049740.blk.asset_index.json
 185: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_SumoData 23030/23605: 97,56%
@@ -194,9 +164,9 @@
 62661: Lua/Activity/1001/activity1001.lua 20357/20358: 100,00%
 
 
-1015 completely unmatched
+855 completely unmatched
 
-179432/181023: 99,12%
+179592/181023: 99,21%
 
 ## game_2.1.0_2.2.0_diff_4v9prHYT3QOD628M.zip_31049740.blk.asset_index.json
 386: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Rogue 23989/24923: 96,25%
@@ -204,9 +174,9 @@
 47626: Lua/Activity/1001/activity1001.lua 21844/21845: 100,00%
 
 
-1142 completely unmatched
+974 completely unmatched
 
-190425/192502: 98,92%
+190593/192502: 99,01%
 
 ## game_2.1.0_2.2.0_diff_gCYOaDcXKismNxb8.zip_31049740.blk.asset_index.json
 386: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Rogue 23989/24923: 96,25%
@@ -214,9 +184,9 @@
 47626: Lua/Activity/1001/activity1001.lua 21844/21845: 100,00%
 
 
-1142 completely unmatched
+974 completely unmatched
 
-190425/192502: 98,92%
+190593/192502: 99,01%
 
 ## game_2.1.50_2.1.51_diff_KMTdD3HWgoJVFfN7.zip_31049740.blk.asset_index.json
 385: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Rogue 23933/24865: 96,25%
@@ -224,9 +194,9 @@
 47597: Lua/Activity/1001/activity1001.lua 21609/21636: 99,88%
 
 
-1418 completely unmatched
+1250 completely unmatched
 
-194735/197112: 98,79%
+194903/197112: 98,88%
 
 ## game_2.2.0_2.3.0_diff_aLjNHzRTOQlyb2x8.zip_31049740.blk.asset_index.json
 405: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 24663/25923: 95,14%
@@ -234,9 +204,9 @@
 50164: Lua/Activity/1001/activity1001.lua 22466/22511: 99,80%
 
 
-1144 completely unmatched
+953 completely unmatched
 
-196200/198649: 98,77%
+196391/198649: 98,86%
 
 ## game_2.3.0_2.4.0_diff_jm6dxRrsaWQ0wT2X.zip_31049740.blk.asset_index.json
 452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26550/28173: 94,24%
@@ -244,39 +214,9 @@
 52492: Lua/Activity/1001/activity1001.lua 24428/24430: 99,99%
 
 
-1050 completely unmatched
+677 completely unmatched
 
-218499/221174: 98,79%
-
-## GenshinImpact_1.0.0.zip_31049740.blk.asset_index.json
-452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26550/28173: 94,24%
-
-52492: Lua/Activity/1001/activity1001.lua 24428/24430: 99,99%
-
-
-1050 completely unmatched
-
-218499/221174: 98,79%
-
-## GenshinImpact_1.0.1.zip_31049740.blk.asset_index.json
-452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26550/28173: 94,24%
-
-52492: Lua/Activity/1001/activity1001.lua 24428/24430: 99,99%
-
-
-1050 completely unmatched
-
-218499/221174: 98,79%
-
-## GenshinImpact_1.1.0.zip_31049740.blk.asset_index.json
-452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26550/28173: 94,24%
-
-52492: Lua/Activity/1001/activity1001.lua 24428/24430: 99,99%
-
-
-1050 completely unmatched
-
-218499/221174: 98,79%
+218872/221174: 98,96%
 
 ## GenshinImpact_1.2.0.zip_31049740.blk.asset_index.json
 
@@ -348,9 +288,9 @@
 64916: Lua/Activity/1001/activity1001.lua 18402/18403: 99,99%
 
 
-786 completely unmatched
+637 completely unmatched
 
-167936/169042: 99,35%
+168085/169042: 99,43%
 
 ## GenshinImpact_2.1.0.zip_31049740.blk.asset_index.json
 236: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_SumoData 23039/23616: 97,56%
@@ -358,9 +298,9 @@
 62714: Lua/Activity/1001/activity1001.lua 20410/20411: 100,00%
 
 
-1001 completely unmatched
+838 completely unmatched
 
-179671/181250: 99,13%
+179834/181250: 99,22%
 
 ## GenshinImpact_2.2.0.zip_31049740.blk.asset_index.json
 386: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Rogue 23989/24923: 96,25%
@@ -368,9 +308,9 @@
 47626: Lua/Activity/1001/activity1001.lua 21844/21845: 100,00%
 
 
-1142 completely unmatched
+974 completely unmatched
 
-190425/192502: 98,92%
+190593/192502: 99,01%
 
 ## GenshinImpact_2.3.0.zip_31049740.blk.asset_index.json
 405: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 24663/25923: 95,14%
@@ -378,9 +318,9 @@
 50164: Lua/Activity/1001/activity1001.lua 22466/22511: 99,80%
 
 
-1144 completely unmatched
+953 completely unmatched
 
-196200/198649: 98,77%
+196391/198649: 98,86%
 
 ## GenshinImpact_2.4.0.zip_31049740.blk.asset_index.json
 452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26550/28173: 94,24%
@@ -388,9 +328,9 @@
 52492: Lua/Activity/1001/activity1001.lua 24428/24430: 99,99%
 
 
-1050 completely unmatched
+677 completely unmatched
 
-218499/221174: 98,79%
+218872/221174: 98,96%
 
 ## GenshinImpact_2.4.50_beta.zip_31049740.blk.asset_index.json
 484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26528/29085: 91,21%
@@ -430,51 +370,9 @@
 55490: SRT/CHS/Ambor_Readings_CHS 819/825: 99,27%
 
 
-6292 completely unmatched
+5997 completely unmatched
 
-218715/228306: 95,80%
-
-## GenshinImpact_beta1.0.92.zip_31049740.blk.asset_index.json
-484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26528/29085: 91,21%
-
-486: Data/_ExcelBinOutput/AbilityOverrideExcelConfigData 580/617: 94,00%
-
-559: EmbededRes/ART/Texture/Common/UI_BtnIcon_Close 17/18: 94,44%
-
-34903: ART/UI/Readable/CHS/AmborLicense 667/669: 99,70%
-
-34904: ART/UI/Readable/CHT/AmborLicense_CHT 665/669: 99,40%
-
-34905: ART/UI/Readable/DE/AmborLicense_DE 665/669: 99,40%
-
-34906: ART/UI/Readable/EN/AmborLicense_EN 666/670: 99,40%
-
-34907: ART/UI/Readable/ES/AmborLicense_ES 665/669: 99,40%
-
-34908: ART/UI/Readable/FR/AmborLicense_FR 665/669: 99,40%
-
-34909: ART/UI/Readable/ID/AmborLicense_ID 665/669: 99,40%
-
-34910: ART/UI/Readable/JP/AmborLicense_JP 665/669: 99,40%
-
-34911: ART/UI/Readable/KR/AmborLicense_KR 665/669: 99,40%
-
-34912: ART/UI/Readable/PT/AmborLicense_PT 665/669: 99,40%
-
-34913: ART/UI/Readable/RU/AmborLicense_RU 665/669: 99,40%
-
-34914: ART/UI/Readable/TH/AmborLicense_TH 665/669: 99,40%
-
-34915: ART/UI/Readable/VI/AmborLicense_VI 665/669: 99,40%
-
-55487: Lua/Activity/1001/activity1001.lua 24085/24733: 97,38%
-
-55490: SRT/CHS/Ambor_Readings_CHS 819/825: 99,27%
-
-
-6292 completely unmatched
-
-218715/228306: 95,80%
+219010/228306: 95,93%
 
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 166: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 16455/16456: 99,99%
@@ -510,42 +408,6 @@
 
 142447/142447: 100,00%
 
-## YuanShen_0.9.0.zip_31049740.blk.asset_index.json
-
-0 completely unmatched
-
-142447/142447: 100,00%
-
-## YuanShen_0.9.1.zip_31049740.blk.asset_index.json
-
-0 completely unmatched
-
-142447/142447: 100,00%
-
-## YuanShen_0.9.2.zip_31049740.blk.asset_index.json
-
-0 completely unmatched
-
-142447/142447: 100,00%
-
-## YuanShen_0.9.3.zip_31049740.blk.asset_index.json
-
-0 completely unmatched
-
-142447/142447: 100,00%
-
-## YuanShen_1.0.0.zip_31049740.blk.asset_index.json
-
-0 completely unmatched
-
-142447/142447: 100,00%
-
-## YuanShen_1.1.1.zip_31049740.blk.asset_index.json
-
-0 completely unmatched
-
-142447/142447: 100,00%
-
 ## YuanShen_1.4.0.zip_31049740.blk.asset_index.json
 162: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 15115/15120: 99,97%
 
@@ -568,9 +430,9 @@
 64916: Lua/Activity/1001/activity1001.lua 18402/18403: 99,99%
 
 
-786 completely unmatched
+637 completely unmatched
 
-167936/169042: 99,35%
+168085/169042: 99,43%
 
 ## Yuanshen_2.1.0beta.zip_31049740.blk.asset_index.json
 177: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_SumoData 22945/23512: 97,59%
@@ -578,9 +440,9 @@
 64677: Lua/Activity/1001/activity1001.lua 20108/20120: 99,94%
 
 
-1097 completely unmatched
+941 completely unmatched
 
-176841/178517: 99,06%
+176997/178517: 99,15%
 
 ## YuanShen_2.2.0.zip_31049740.blk.asset_index.json
 386: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Rogue 23989/24923: 96,25%
@@ -588,9 +450,9 @@
 47626: Lua/Activity/1001/activity1001.lua 21844/21845: 100,00%
 
 
-1142 completely unmatched
+974 completely unmatched
 
-190425/192502: 98,92%
+190593/192502: 99,01%
 
 ## YuanShen_2.2.0beta.zip_31049740.blk.asset_index.json
 382: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Rogue 23913/24846: 96,24%
@@ -598,9 +460,9 @@
 47669: Lua/Activity/1001/activity1001.lua 21547/21588: 99,81%
 
 
-1580 completely unmatched
+1412 completely unmatched
 
-194206/196760: 98,70%
+194374/196760: 98,79%
 
 ## YuanShen_2.2.1beta.zip_31049740.blk.asset_index.json
 385: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Rogue 23933/24865: 96,25%
@@ -608,9 +470,9 @@
 47597: Lua/Activity/1001/activity1001.lua 21609/21636: 99,88%
 
 
-1418 completely unmatched
+1250 completely unmatched
 
-194735/197112: 98,79%
+194903/197112: 98,88%
 
 ## YuanShen_2.2.3beta.zip_31049740.blk.asset_index.json
 386: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Rogue 23985/24919: 96,25%
@@ -618,9 +480,9 @@
 47603: Lua/Activity/1001/activity1001.lua 21826/21827: 100,00%
 
 
-1190 completely unmatched
+1022 completely unmatched
 
-190349/192474: 98,90%
+190517/192474: 98,98%
 
 ## YuanShen_2.2.4beta.zip_31049740.blk.asset_index.json
 386: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Rogue 23988/24922: 96,25%
@@ -628,9 +490,9 @@
 47605: Lua/Activity/1001/activity1001.lua 21843/21844: 100,00%
 
 
-1140 completely unmatched
+972 completely unmatched
 
-190416/192491: 98,92%
+190584/192491: 99,01%
 
 ## YuanShen_2.3.50_beta.zip_31049740.blk.asset_index.json
 452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26481/28086: 94,29%
@@ -638,9 +500,9 @@
 57476: Lua/Activity/1001/activity1001.lua 24251/24263: 99,95%
 
 
-1222 completely unmatched
+994 completely unmatched
 
-221245/224084: 98,73%
+221473/224084: 98,83%
 
 ## YuanShen_2.4.0.zip_31049740.blk.asset_index.json
 452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26550/28173: 94,24%
@@ -648,9 +510,9 @@
 52492: Lua/Activity/1001/activity1001.lua 24428/24430: 99,99%
 
 
-1050 completely unmatched
+677 completely unmatched
 
-218499/221174: 98,79%
+218872/221174: 98,96%
 
 ## yuanshen_beta1.1.55new.zip_31049740.blk.asset_index.json
 
