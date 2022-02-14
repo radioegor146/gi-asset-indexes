@@ -213,12 +213,12 @@
 
 53949: Lua/Activity/1001/activity1001.lua 24725/24751: 99,89%
 
-53952: SRT/CHS/Ambor_Readings_CHS 819/897: 91,30%
+53952: SRT/CHS/Ambor_Readings_CHS 825/897: 91,97%
 
 
 3120 completely unmatched
 
-224433/229684: 97,71%
+224439/229684: 97,72%
 
 ## game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json
 484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 27102/29090: 93,17%
@@ -227,12 +227,10 @@
 
 55508: Lua/Activity/1001/activity1001.lua 24715/24738: 99,91%
 
-55511: SRT/CHS/Ambor_Readings_CHS 819/825: 99,27%
-
 
 2297 completely unmatched
 
-224149/228500: 98,10%
+224155/228500: 98,10%
 
 ## GenshinImpact_1.2.0.zip_31049740.blk.asset_index.json
 
@@ -349,12 +347,10 @@
 
 55487: Lua/Activity/1001/activity1001.lua 24711/24733: 99,91%
 
-55490: SRT/CHS/Ambor_Readings_CHS 819/825: 99,27%
-
 
 2319 completely unmatched
 
-223937/228306: 98,09%
+223943/228306: 98,09%
 
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 166: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 16455/16456: 99,99%
