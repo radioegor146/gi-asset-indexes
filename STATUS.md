@@ -213,12 +213,10 @@
 
 53949: Lua/Activity/1001/activity1001.lua 24725/24751: 99,89%
 
-53952: SRT/CHS/Ambor_Readings_CHS 825/897: 91,97%
-
 
 3120 completely unmatched
 
-224439/229684: 97,72%
+224511/229684: 97,75%
 
 ## game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json
 484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 27102/29090: 93,17%
