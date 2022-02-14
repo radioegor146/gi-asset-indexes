@@ -207,88 +207,36 @@
 218974/221174: 99,01%
 
 ## game_2.4.0_2.5.0_hdiff_G7AskHSpFPiXwRyU.zip_31049740.blk.asset_index.json
-484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26524/29104: 91,14%
+484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 27071/29104: 93,01%
 
 486: Data/_ExcelBinOutput/AbilityOverrideExcelConfigData 580/617: 94,00%
 
 559: EmbededRes/ART/Texture/Common/UI_BtnIcon_Close 17/18: 94,44%
 
-33913: ART/UI/Readable/CHS/AmborLicense 669/673: 99,41%
-
-33914: ART/UI/Readable/CHT/AmborLicense_CHT 666/673: 98,96%
-
-33915: ART/UI/Readable/DE/AmborLicense_DE 666/673: 98,96%
-
-33916: ART/UI/Readable/EN/AmborLicense_EN 667/674: 98,96%
-
-33917: ART/UI/Readable/ES/AmborLicense_ES 666/673: 98,96%
-
-33918: ART/UI/Readable/FR/AmborLicense_FR 666/673: 98,96%
-
-33919: ART/UI/Readable/ID/AmborLicense_ID 666/673: 98,96%
-
-33920: ART/UI/Readable/JP/AmborLicense_JP 666/673: 98,96%
-
-33921: ART/UI/Readable/KR/AmborLicense_KR 666/673: 98,96%
-
-33922: ART/UI/Readable/PT/AmborLicense_PT 666/673: 98,96%
-
-33923: ART/UI/Readable/RU/AmborLicense_RU 666/673: 98,96%
-
-33924: ART/UI/Readable/TH/AmborLicense_TH 666/673: 98,96%
-
-33925: ART/UI/Readable/VI/AmborLicense_VI 666/673: 98,96%
-
-53949: Lua/Activity/1001/activity1001.lua 24087/24751: 97,32%
+53949: Lua/Activity/1001/activity1001.lua 24206/24751: 97,80%
 
 53952: SRT/CHS/Ambor_Readings_CHS 819/897: 91,30%
 
 
-6922 completely unmatched
+6918 completely unmatched
 
-219314/229684: 95,49%
+220072/229684: 95,82%
 
 ## game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json
-484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26528/29090: 91,19%
+484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 27059/29090: 93,02%
 
 486: Data/_ExcelBinOutput/AbilityOverrideExcelConfigData 580/617: 94,00%
 
 559: EmbededRes/ART/Texture/Common/UI_BtnIcon_Close 17/18: 94,44%
 
-34903: ART/UI/Readable/CHS/AmborLicense 669/673: 99,41%
-
-34904: ART/UI/Readable/CHT/AmborLicense_CHT 666/669: 99,55%
-
-34905: ART/UI/Readable/DE/AmborLicense_DE 666/669: 99,55%
-
-34906: ART/UI/Readable/EN/AmborLicense_EN 667/670: 99,55%
-
-34907: ART/UI/Readable/ES/AmborLicense_ES 666/669: 99,55%
-
-34908: ART/UI/Readable/FR/AmborLicense_FR 666/669: 99,55%
-
-34909: ART/UI/Readable/ID/AmborLicense_ID 666/669: 99,55%
-
-34910: ART/UI/Readable/JP/AmborLicense_JP 666/669: 99,55%
-
-34911: ART/UI/Readable/KR/AmborLicense_KR 666/669: 99,55%
-
-34912: ART/UI/Readable/PT/AmborLicense_PT 666/669: 99,55%
-
-34913: ART/UI/Readable/RU/AmborLicense_RU 666/669: 99,55%
-
-34914: ART/UI/Readable/TH/AmborLicense_TH 666/669: 99,55%
-
-34915: ART/UI/Readable/VI/AmborLicense_VI 666/669: 99,55%
-
-55508: Lua/Activity/1001/activity1001.lua 24087/24738: 97,37%
+55508: Lua/Activity/1001/activity1001.lua 24205/24738: 97,85%
 
 55511: SRT/CHS/Ambor_Readings_CHS 819/825: 99,27%
 
 
-5938 completely unmatched
+5934 completely unmatched
 
-219265/228500: 95,96%
+219958/228500: 96,26%
 
 ## GenshinImpact_1.2.0.zip_31049740.blk.asset_index.json
 
@@ -399,46 +347,20 @@
 218974/221174: 99,01%
 
 ## GenshinImpact_2.4.50_beta.zip_31049740.blk.asset_index.json
-484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26528/29085: 91,21%
+484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 27057/29085: 93,03%
 
 486: Data/_ExcelBinOutput/AbilityOverrideExcelConfigData 580/617: 94,00%
 
 559: EmbededRes/ART/Texture/Common/UI_BtnIcon_Close 17/18: 94,44%
 
-34903: ART/UI/Readable/CHS/AmborLicense 667/669: 99,70%
-
-34904: ART/UI/Readable/CHT/AmborLicense_CHT 666/669: 99,55%
-
-34905: ART/UI/Readable/DE/AmborLicense_DE 666/669: 99,55%
-
-34906: ART/UI/Readable/EN/AmborLicense_EN 667/670: 99,55%
-
-34907: ART/UI/Readable/ES/AmborLicense_ES 666/669: 99,55%
-
-34908: ART/UI/Readable/FR/AmborLicense_FR 666/669: 99,55%
-
-34909: ART/UI/Readable/ID/AmborLicense_ID 666/669: 99,55%
-
-34910: ART/UI/Readable/JP/AmborLicense_JP 666/669: 99,55%
-
-34911: ART/UI/Readable/KR/AmborLicense_KR 666/669: 99,55%
-
-34912: ART/UI/Readable/PT/AmborLicense_PT 666/669: 99,55%
-
-34913: ART/UI/Readable/RU/AmborLicense_RU 666/669: 99,55%
-
-34914: ART/UI/Readable/TH/AmborLicense_TH 666/669: 99,55%
-
-34915: ART/UI/Readable/VI/AmborLicense_VI 666/669: 99,55%
-
-55487: Lua/Activity/1001/activity1001.lua 24087/24733: 97,39%
+55487: Lua/Activity/1001/activity1001.lua 24205/24733: 97,87%
 
 55490: SRT/CHS/Ambor_Readings_CHS 819/825: 99,27%
 
 
-5897 completely unmatched
+5893 completely unmatched
 
-219124/228306: 95,98%
+219813/228306: 96,28%
 
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 166: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 16455/16456: 99,99%
