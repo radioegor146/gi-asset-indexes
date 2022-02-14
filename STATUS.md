@@ -206,6 +206,48 @@
 
 218974/221174: 99,01%
 
+## game_2.4.0_2.5.0_hdiff_G7AskHSpFPiXwRyU.zip_31049740.blk.asset_index.json
+484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26524/29104: 91,14%
+
+486: Data/_ExcelBinOutput/AbilityOverrideExcelConfigData 580/617: 94,00%
+
+559: EmbededRes/ART/Texture/Common/UI_BtnIcon_Close 17/18: 94,44%
+
+33913: ART/UI/Readable/CHS/AmborLicense 669/673: 99,41%
+
+33914: ART/UI/Readable/CHT/AmborLicense_CHT 666/673: 98,96%
+
+33915: ART/UI/Readable/DE/AmborLicense_DE 666/673: 98,96%
+
+33916: ART/UI/Readable/EN/AmborLicense_EN 667/674: 98,96%
+
+33917: ART/UI/Readable/ES/AmborLicense_ES 666/673: 98,96%
+
+33918: ART/UI/Readable/FR/AmborLicense_FR 666/673: 98,96%
+
+33919: ART/UI/Readable/ID/AmborLicense_ID 666/673: 98,96%
+
+33920: ART/UI/Readable/JP/AmborLicense_JP 666/673: 98,96%
+
+33921: ART/UI/Readable/KR/AmborLicense_KR 666/673: 98,96%
+
+33922: ART/UI/Readable/PT/AmborLicense_PT 666/673: 98,96%
+
+33923: ART/UI/Readable/RU/AmborLicense_RU 666/673: 98,96%
+
+33924: ART/UI/Readable/TH/AmborLicense_TH 666/673: 98,96%
+
+33925: ART/UI/Readable/VI/AmborLicense_VI 666/673: 98,96%
+
+53949: Lua/Activity/1001/activity1001.lua 24087/24751: 97,32%
+
+53952: SRT/CHS/Ambor_Readings_CHS 819/897: 91,30%
+
+
+6922 completely unmatched
+
+219314/229684: 95,49%
+
 ## game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json
 484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26528/29090: 91,19%
 
