@@ -209,22 +209,20 @@
 ## game_2.4.0_2.5.0_hdiff_G7AskHSpFPiXwRyU.zip_31049740.blk.asset_index.json
 484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27417/29104: 94,20%
 
-53949: Lua/Activity/1001/activity1001.lua 24727/24751: 99,90%
-
 
 1816 completely unmatched
 
-226157/229684: 98,46%
+226181/229684: 98,47%
 
 ## game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json
 484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27405/29090: 94,21%
 
-55508: Lua/Activity/1001/activity1001.lua 24717/24738: 99,92%
+55508: Lua/Activity/1001/activity1001.lua 24736/24738: 99,99%
 
 
 994 completely unmatched
 
-225800/228500: 98,82%
+225819/228500: 98,83%
 
 ## GenshinImpact_1.2.0.zip_31049740.blk.asset_index.json
 
@@ -337,12 +335,12 @@
 ## GenshinImpact_2.4.50_beta.zip_31049740.blk.asset_index.json
 484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27403/29085: 94,22%
 
-55487: Lua/Activity/1001/activity1001.lua 24713/24733: 99,92%
+55487: Lua/Activity/1001/activity1001.lua 24731/24733: 99,99%
 
 
 1016 completely unmatched
 
-225588/228306: 98,81%
+225606/228306: 98,82%
 
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 166: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 16455/16456: 99,99%
@@ -461,12 +459,12 @@
 ## YuanShen_2.3.50_beta.zip_31049740.blk.asset_index.json
 452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26760/28086: 95,28%
 
-57476: Lua/Activity/1001/activity1001.lua 24252/24263: 99,95%
+57476: Lua/Activity/1001/activity1001.lua 24255/24263: 99,97%
 
 
 884 completely unmatched
 
-221863/224084: 99,01%
+221866/224084: 99,01%
 
 ## YuanShen_2.4.0.zip_31049740.blk.asset_index.json
 452: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_ChannellerSlab 26832/28173: 95,24%
