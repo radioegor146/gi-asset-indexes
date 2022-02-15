@@ -209,26 +209,22 @@
 ## game_2.4.0_2.5.0_hdiff_G7AskHSpFPiXwRyU.zip_31049740.blk.asset_index.json
 484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27417/29104: 94,20%
 
-486: Data/_ExcelBinOutput/AbilityOverrideExcelConfigData 580/617: 94,00%
-
 53949: Lua/Activity/1001/activity1001.lua 24727/24751: 99,90%
 
 
 1816 completely unmatched
 
-226120/229684: 98,45%
+226157/229684: 98,46%
 
 ## game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json
 484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27405/29090: 94,21%
-
-486: Data/_ExcelBinOutput/AbilityOverrideExcelConfigData 580/617: 94,00%
 
 55508: Lua/Activity/1001/activity1001.lua 24717/24738: 99,92%
 
 
 994 completely unmatched
 
-225763/228500: 98,80%
+225800/228500: 98,82%
 
 ## GenshinImpact_1.2.0.zip_31049740.blk.asset_index.json
 
@@ -341,14 +337,12 @@
 ## GenshinImpact_2.4.50_beta.zip_31049740.blk.asset_index.json
 484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27403/29085: 94,22%
 
-486: Data/_ExcelBinOutput/AbilityOverrideExcelConfigData 580/617: 94,00%
-
 55487: Lua/Activity/1001/activity1001.lua 24713/24733: 99,92%
 
 
 1016 completely unmatched
 
-225551/228306: 98,79%
+225588/228306: 98,81%
 
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 166: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 16455/16456: 99,99%
