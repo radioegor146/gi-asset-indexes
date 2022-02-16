@@ -207,22 +207,22 @@
 219309/221174: 99,16%
 
 ## game_2.4.0_2.5.0_hdiff_G7AskHSpFPiXwRyU.zip_31049740.blk.asset_index.json
-484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27617/29104: 94,89%
+484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27618/29104: 94,89%
 
 
 1704 completely unmatched
 
-226493/229684: 98,61%
+226494/229684: 98,61%
 
 ## game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json
-484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27605/29090: 94,90%
+484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27606/29090: 94,90%
 
 55508: Lua/Activity/1001/activity1001.lua 24736/24738: 99,99%
 
 
 882 completely unmatched
 
-226131/228500: 98,96%
+226132/228500: 98,96%
 
 ## GenshinImpact_1.2.0.zip_31049740.blk.asset_index.json
 
@@ -333,14 +333,64 @@
 219309/221174: 99,16%
 
 ## GenshinImpact_2.4.50_beta.zip_31049740.blk.asset_index.json
-484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27601/29085: 94,90%
+484: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27602/29085: 94,90%
 
 55487: Lua/Activity/1001/activity1001.lua 24731/24733: 99,99%
 
 
 904 completely unmatched
 
-225916/228306: 98,95%
+225917/228306: 98,95%
+
+## GenshinImpact_2.5.50_beta.zip_31049740.blk.asset_index.json
+562: ART/UI/Atlas/MapMark/UI_MarkLocalAvatar 115/118: 97,46%
+
+582: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 27621/31555: 87,53%
+
+584: Data/_ExcelBinOutput/AbilityOverrideExcelConfigData 617/655: 94,20%
+
+28895: ART/UI/Atlas/AchievementSmallIcon/UI_AchievementIcon_A001 30/32: 93,75%
+
+34182: ART/UI/Atlas/NetstatIcon/UI_NetstatIcon_1 3/4: 75,00%
+
+34305: ART/UI/Atlas/QuestTabIcon/UI_QuestType_Chapter_1 4/8: 50,00%
+
+35132: ART/UI/Atlas/TheatreMechanicusIcon/UI_IconSmall_Score 3/6: 50,00%
+
+37848: ART/UI/Readable/CHS/AmborLicense 704/715: 98,46%
+
+37849: ART/UI/Readable/CHT/AmborLicense_CHT 673/715: 94,13%
+
+37850: ART/UI/Readable/DE/AmborLicense_DE 673/715: 94,13%
+
+37851: ART/UI/Readable/EN/AmborLicense_EN 674/716: 94,13%
+
+37852: ART/UI/Readable/ES/AmborLicense_ES 673/715: 94,13%
+
+37853: ART/UI/Readable/FR/AmborLicense_FR 673/715: 94,13%
+
+37854: ART/UI/Readable/ID/AmborLicense_ID 673/715: 94,13%
+
+37855: ART/UI/Readable/JP/AmborLicense_JP 673/715: 94,13%
+
+37856: ART/UI/Readable/KR/AmborLicense_KR 673/715: 94,13%
+
+37857: ART/UI/Readable/PT/AmborLicense_PT 673/715: 94,13%
+
+37858: ART/UI/Readable/RU/AmborLicense_RU 673/715: 94,13%
+
+37859: ART/UI/Readable/TH/AmborLicense_TH 673/715: 94,13%
+
+37860: ART/UI/Readable/VI/AmborLicense_VI 673/715: 94,13%
+
+60384: Lua/Activity/1001/activity1001.lua 24750/26248: 94,29%
+
+60387: SRT/CHS/Ambor_Readings_CHS 897/902: 99,45%
+
+
+11904 completely unmatched
+
+226324/244231: 92,67%
 
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 166: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 16455/16456: 99,99%
