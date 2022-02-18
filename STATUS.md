@@ -345,8 +345,6 @@
 ## GenshinImpact_2.5.50_beta.zip_31049740.blk.asset_index.json
 582: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 29423/31555: 93,24%
 
-584: Data/_ExcelBinOutput/AbilityOverrideExcelConfigData 617/655: 94,20%
-
 60384: Lua/Activity/1001/activity1001.lua 26247/26248: 100,00%
 
 60387: SRT/CHS/Ambor_Readings_CHS 899/902: 99,67%
@@ -354,7 +352,7 @@
 
 2669 completely unmatched
 
-239388/244231: 98,02%
+239426/244231: 98,03%
 
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 166: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 16455/16456: 99,99%
