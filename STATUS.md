@@ -402,6 +402,18 @@
 
 243097/244901: 99,26%
 
+## GenshinImpact_2.6.0.zip_31049740.blk.asset_index.json
+592: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 31010/31607: 98,11%
+
+59800: Lua/Activity/1001/activity1001.lua 26401/26411: 99,96%
+
+59803: SRT/CHS/Ambor_Readings_CHS 923/962: 95,95%
+
+
+1228 completely unmatched
+
+243139/245013: 99,24%
+
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 166: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 16455/16456: 99,99%
 

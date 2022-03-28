@@ -262,5 +262,11 @@
     "RawPath": "raw/GenshinImpact_2.5.54_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.5.54-beta",
     "Coverage": 99.263375813083655
+  },
+  {
+    "MappedPath": "mapped/GenshinImpact_2.6.0.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_2.6.0.zip_31049740.blk.asset_index.json",
+    "Version": "2.6.0",
+    "Coverage": 99.2351426250852
   }
 ]
