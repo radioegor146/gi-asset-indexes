@@ -39,19 +39,19 @@
     "MappedPath": "mapped/yuanshen_beta_1.3.52.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/yuanshen_beta_1.3.52.zip_31049740.blk.asset_index.json",
     "Version": "1.3.52-beta",
-    "Coverage": 99.992273484315177
+    "Coverage": 99.993990487800687
   },
   {
     "MappedPath": "mapped/yuanshen_beta_1.3.53.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/yuanshen_beta_1.3.53.zip_31049740.blk.asset_index.json",
     "Version": "1.3.53-beta",
-    "Coverage": 99.9931326345789
+    "Coverage": 99.994849475934174
   },
   {
     "MappedPath": "mapped/GenshinImpact_1.4.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_1.4.0.zip_31049740.blk.asset_index.json",
     "Version": "1.4.0",
-    "Coverage": 99.993133931253482
+    "Coverage": 99.994850448440118
   },
   {
     "MappedPath": "mapped/yuanshen_beta_1.4.50.zip_31049740.blk.asset_index.json",
@@ -129,144 +129,156 @@
     "MappedPath": "mapped/game_1.6.50_1.6.51_diff_ekNqVXJyiUSd1GzC.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_1.6.50_1.6.51_diff_ekNqVXJyiUSd1GzC.zip_31049740.blk.asset_index.json",
     "Version": "1.6.51-beta",
-    "Coverage": 99.719819346205313
+    "Coverage": 99.743715350793352
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.0.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.0.0.zip_31049740.blk.asset_index.json",
     "Version": "2.0.0",
-    "Coverage": 99.798274984915
+    "Coverage": 99.821937743282732
   },
   {
     "MappedPath": "mapped/game_2.0.50_2.0.51_diff_1iMPRcIZzJf4y7js.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_2.0.50_2.0.51_diff_1iMPRcIZzJf4y7js.zip_31049740.blk.asset_index.json",
     "Version": "2.0.51-beta",
-    "Coverage": 99.774946661244584
+    "Coverage": 99.7810743511612
   },
   {
     "MappedPath": "mapped/game_2.0.51_2.0.52_diff_FXCjpYt31ShLgEoA.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_2.0.51_2.0.52_diff_FXCjpYt31ShLgEoA.zip_31049740.blk.asset_index.json",
     "Version": "2.0.52-beta",
-    "Coverage": 99.775166691525385
+    "Coverage": 99.7812432674301
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.1.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.1.0.zip_31049740.blk.asset_index.json",
     "Version": "2.1.0",
-    "Coverage": 99.776
+    "Coverage": 99.78206896551724
   },
   {
     "MappedPath": "mapped/Yuanshen_2.1.0beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/Yuanshen_2.1.0beta.zip_31049740.blk.asset_index.json",
     "Version": "2.1.0-beta",
-    "Coverage": 99.769769825842914
+    "Coverage": 99.775931703983375
   },
   {
     "MappedPath": "mapped/game_2.1.50_2.1.51_diff_KMTdD3HWgoJVFfN7.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_2.1.50_2.1.51_diff_KMTdD3HWgoJVFfN7.zip_31049740.blk.asset_index.json",
     "Version": "2.1.51-beta",
-    "Coverage": 99.652989163521241
+    "Coverage": 99.655525792442873
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.2.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.2.0.zip_31049740.blk.asset_index.json",
     "Version": "2.2.0",
-    "Coverage": 99.691431777332184
+    "Coverage": 99.69402915294387
   },
   {
     "MappedPath": "mapped/YuanShen_2.2.0beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/YuanShen_2.2.0beta.zip_31049740.blk.asset_index.json",
     "Version": "2.2.0-beta",
-    "Coverage": 99.5441146574507
+    "Coverage": 99.546655824354545
   },
   {
     "MappedPath": "mapped/YuanShen_2.2.1beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/YuanShen_2.2.1beta.zip_31049740.blk.asset_index.json",
     "Version": "2.2.1-beta",
-    "Coverage": 99.652989163521241
+    "Coverage": 99.655525792442873
   },
   {
     "MappedPath": "mapped/YuanShen_2.2.3beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/YuanShen_2.2.3beta.zip_31049740.blk.asset_index.json",
     "Version": "2.2.3-beta",
-    "Coverage": 99.691386888618723
+    "Coverage": 99.693984642081531
   },
   {
     "MappedPath": "mapped/YuanShen_2.2.4beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/YuanShen_2.2.4beta.zip_31049740.blk.asset_index.json",
     "Version": "2.2.4-beta",
-    "Coverage": 99.6914141440379
+    "Coverage": 99.694011668077991
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.3.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.3.0.zip_31049740.blk.asset_index.json",
     "Version": "2.3.0",
-    "Coverage": 99.659197881690815
+    "Coverage": 99.66121148357152
   },
   {
     "MappedPath": "mapped/YuanShen_2.3.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/YuanShen_2.3.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.3.50-beta",
-    "Coverage": 99.566680352010849
+    "Coverage": 99.568019135681268
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.4.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.4.0.zip_31049740.blk.asset_index.json",
     "Version": "2.4.0",
-    "Coverage": 99.614782931085927
+    "Coverage": 99.616139329215912
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.4.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.4.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.4.50-beta",
-    "Coverage": 99.512934395066267
+    "Coverage": 99.514248420978859
   },
   {
     "MappedPath": "mapped/game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json",
     "Version": "2.4.51-beta",
-    "Coverage": 99.510722100656452
+    "Coverage": 99.51203501094092
   },
   {
     "MappedPath": "mapped/game_2.4.0_2.5.0_hdiff_G7AskHSpFPiXwRyU.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_2.4.0_2.5.0_hdiff_G7AskHSpFPiXwRyU.zip_31049740.blk.asset_index.json",
     "Version": "2.5.0",
-    "Coverage": 99.474060012887264
+    "Coverage": 99.475366155239371
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.5.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.5.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.5.50-beta",
-    "Coverage": 99.285921934561955
+    "Coverage": 99.289197522018085
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.5.51_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.5.51_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.5.51-beta",
-    "Coverage": 99.280504914572745
+    "Coverage": 99.283777206035737
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.5.52_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.5.52_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.5.52-beta",
-    "Coverage": 99.278069838362867
+    "Coverage": 99.281340190170951
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.5.53_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.5.53_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.5.53-beta",
-    "Coverage": 99.265000122499984
+    "Coverage": 99.27398345433609
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.5.54_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.5.54_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.5.54-beta",
-    "Coverage": 99.26500912613669
+    "Coverage": 99.273992347928342
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.6.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.6.0.zip_31049740.blk.asset_index.json",
     "Version": "2.6.0",
-    "Coverage": 99.264120679310892
+    "Coverage": 99.273507936313578
+  },
+  {
+    "MappedPath": "mapped/GenshinImpact_2.6.50_beta.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_2.6.50_beta.zip_31049740.blk.asset_index.json",
+    "Version": "2.6.50-beta",
+    "Coverage": 99.061877805973069
+  },
+  {
+    "MappedPath": "mapped/GenshinImpact_2.6.51_beta.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_2.6.51_beta.zip_31049740.blk.asset_index.json",
+    "Version": "2.6.51-beta",
+    "Coverage": 99.042752379466378
   }
 ]
