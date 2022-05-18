@@ -418,6 +418,48 @@
 
 253906/256360: 99,04%
 
+## GenshinImpact_2.6.52_beta.zip_31049740.blk.asset_index.json
+634: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 31579/32587: 96,91%
+
+40000: ART/UI/Readable/CHS/AmborLicense 722/724: 99,72%
+
+62793: Lua/Activity/1001/activity1001.lua 26793/26886: 99,65%
+
+62796: SRT/CHS/Ambor_Readings_CHS 962/967: 99,48%
+
+
+1381 completely unmatched
+
+253892/256381: 99,03%
+
+## GenshinImpact_2.6.53_beta.zip_31049740.blk.asset_index.json
+634: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 31579/32589: 96,90%
+
+40007: ART/UI/Readable/CHS/AmborLicense 722/724: 99,72%
+
+62800: Lua/Activity/1001/activity1001.lua 26793/26890: 99,64%
+
+62803: SRT/CHS/Ambor_Readings_CHS 962/967: 99,48%
+
+
+1404 completely unmatched
+
+253883/256401: 99,02%
+
+## GenshinImpact_2.6.54_beta.zip_31049740.blk.asset_index.json
+634: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 31579/32595: 96,88%
+
+40010: ART/UI/Readable/CHS/AmborLicense 722/724: 99,72%
+
+62803: Lua/Activity/1001/activity1001.lua 26792/26890: 99,64%
+
+62806: SRT/CHS/Ambor_Readings_CHS 962/967: 99,48%
+
+
+1407 completely unmatched
+
+253882/256410: 99,01%
+
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 166: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 16455/16456: 99,99%
 
